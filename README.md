@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web application for sentiment analysis of textual reviews. It uses a machine learning model trained on a dataset of reviews to predict the sentiment of new reviews as Positive, Neutral, or Negative. Users can input individual text reviews directly through the web interface or upload a CSV file containing multiple reviews for batch processing.
+This project is a web application for sentiment analysis of textual reviews. It uses a machine learning model of Logistic Regression trained on a dataset of reviews to predict the sentiment of new reviews as Positive, Neutral, or Negative. Users can input individual text reviews directly through the web interface or upload a CSV file containing multiple reviews for batch processing.
 
 ## Features
 
