@@ -15,7 +15,7 @@ This project is a web application for sentiment analysis of textual reviews. It 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-web-app.git
+    git clone https://github.com/your-username/sentimental-analysis.git
     cd sentiment-analysis-web-app
     ```
 
